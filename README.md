@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://files.catbox.moe/2aeex9.jpg" alt="banner" width="100%">
+  <img src="https://files.catbox.moe/jgabxy.jpg" alt="banner" width="100%">
 
   <h1>
   👋 Hi, I’AM 
