@@ -19,7 +19,7 @@ module.exports = {
   config: {
     name: "crush",
     version: "1.0.1",
-    author: "siyuuuu",
+    author: "siyuuuu(shahadot api edit siyuu)",
     countDown: 5,
     role: 0,
     shortDescription: "Crush banner 😏",
