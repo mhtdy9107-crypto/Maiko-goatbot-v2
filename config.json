@@ -62,8 +62,8 @@
     }
   },
   "autoRestart": {
-    "time": 3600000,
-    "notes": "you can set time is interval with milisecond or cron time. If you set time is 0 or false or null, the bot will not auto restart"
+    "time": 0, 
+    "notes": "ei bal ta hudai"
   },
   "autoUptime": {
     "enable": false,
