@@ -1,5 +1,5 @@
 <div align="center">
-  <vdo src="https://i.imgur.com/0Lbkwl8.mp4" alt="banner" width="100%">
+  <pic src="https://i.imgur.com/0S87ghT.jpeg" alt="banner" width="100%">
 
   <h1>
   👋 Hi, I’AM 
